@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="check">CHECK</string>
+    <string name="good_morning_yawn">Good Morning *yawn*</string>
 </resources>
